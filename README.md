@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A churn and revenue analysis for users of a gaming event for an online gaming company is performed here: [https://github.com/nateofspades/Churn_and_Revenue_Analysis/blob/master/Churn_and_Revenue_Analysis.ipynb](Churn_and_Revenue_Analysis.ipynb). Users engage in various ordered missions and could churn (i.e. leave the platform entirely) at any given mission. The analysis investigates which missions result in the highest churn, how player level correlates to mission churn, the total revenue generated for the event, how player level correlates to generated company revenue, and suggestions for improvement based on these findings.
+A churn and revenue analysis for users of a gaming event for an online gaming company is performed here: (https://github.com/nateofspades/Churn_and_Revenue_Analysis/blob/master/Churn_and_Revenue_Analysis.ipynb)[Churn_and_Revenue_Analysis.ipynb]. Users engage in various ordered missions and could churn (i.e. leave the platform entirely) at any given mission. The analysis investigates which missions result in the highest churn, how player level correlates to mission churn, the total revenue generated for the event, how player level correlates to generated company revenue, and suggestions for improvement based on these findings.
 
 Below is an overview of what the notebook consists of.
 
