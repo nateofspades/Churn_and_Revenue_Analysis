@@ -16,8 +16,4 @@ A churn and revenue analysis for users of a gaming event for an online gaming co
 
 **Revenue Analysis - Question 2:** How does player level correlate to revenue generated for the company?
 
-**Possible Improvements for Future Events:**
-
-
-
-The dataset (test_data_analyst.csv) contained sensitive business information and has therefore not been included in this repository.
+**Possible Improvements for Future Events:** Based on findings from the churn and revenue analyses, this section makes some suggestions for how the gaming company can improve their future gaming events.
